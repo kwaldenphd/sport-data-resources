@@ -26,7 +26,7 @@ It includes...
 - [Specialized data/packages](https://github.com/kwaldenphd/sport-data-resources/blob/main/data-packages.md)
 - [Specialized and general tutorials](https://github.com/kwaldenphd/sport-data-resources/blob/main/tutorials.md)
 
-NOTE: Past student work and assignment resources contained in Google Drive are only accessible to current ND users.
+NOTE FOR NON-ND USERS: Past student work and assignment resources contained in Google Drive are only accessible to current ND users. Non-ND users can access information about the assignments via the "[Assignment Prompts](https://github.com/kwaldenphd/sport-data-resources/blob/main/assignment-prompts.md)" page.
 
 # Project Inspiration
 
