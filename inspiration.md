@@ -1,6 +1,7 @@
 # Sport and Big Data: Final Project Inspiration
 
-CC LICENSE
+<a href="http://creativecommons.org/licenses/by-nc/4.0/" rel="license"><img style="border-width: 0;" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" alt="Creative Commons License" /></a>
+This tutorial was written by <a href="https://github.com/kwaldenphd">Katherine Walden</a> is licensed under a <a href="http://creativecommons.org/licenses/by-nc/4.0/" rel="license">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
 
 # Table of Contents
 
@@ -13,12 +14,7 @@ CC LICENSE
   * [Tableau](#tableau)
   * [Other](#other)
 
-<script src="https://unpkg.com/vanilla-back-to-top@7.2.1/dist/vanilla-back-to-top.min.js"></script>
-<script>addBackToTop({
-  diameter: 56,
-  backgroundColor: 'rgb(255, 82, 82)',
-  textColor: '#fff'
-})</script>
+[Click here](https://github.com/kwaldenphd/sport-data-resources) to return to the landing page for this repository.
 
 # Blogs
 
