@@ -82,5 +82,5 @@ This page also incldues general resources for exploratory data analysis using Ex
 - Adobe Spark projects
 
 # Assignment Templates/Resources
-* [Proposal](http://bit.ly/sport-data-final-project-proposal-template)
-* [Project Plan](http://bit.ly/sport-data-final-project-plan-template)  
+
+[Click here](https://github.com/kwaldenphd/sport-data-resources/blob/main/assignment-prompts.md) to visit the "Assignment Prompts" page that includes assignment prompts and steps for Case Study + Final Project assignments.
