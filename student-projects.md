@@ -31,13 +31,7 @@ This tutorial was written by <a href="https://github.com/kwaldenphd">Katherine W
 * [Research papers](https://drive.google.com/drive/folders/1rGYhoBdWnkkhD48J4V4uecTQVbpmVfFI?usp=sharing)
 
 # Adobe Spark Projects
-* [Coxswain as Data Analyst](https://express.adobe.com/page/61V1OVpe84OFv/)
-* [MLB Salary Analysis](https://express.adobe.com/page/jkflNZxxqxVA4/)
-* [Injury Mitigation in Women’s Sport](https://express.adobe.com/page/QHgYfCP2XnTiv/)
-* [Data Tracking in the NFL](https://express.adobe.com/page/h0AjFfT3EjdTZ/)
-* [Hawk-eye System in NCAA Volleyball](https://express.adobe.com/page/0o3MrZ3ufd4q8/)
-* [Hawk-eye System in Pro Tennis](https://express.adobe.com/page/KShocCHRKCHh5/)
-* [Marginalization in ESports/Sports Gaming](https://express.adobe.com/page/hXwXRihb6TtIy/)
+* [Adobe Spark projects](https://docs.google.com/document/d/1VcMrk93vcm0Nf5aSX5YSrfiiuocBiSvHHImI3V_6j4s/edit?usp=sharing)
 
 # Return to Home
 [Click here](https://github.com/kwaldenphd/sport-data-resources) to return to the landing page for this repository.
