@@ -12,6 +12,7 @@ This tutorial was written by <a href="https://github.com/kwaldenphd">Katherine W
 - [Data Sources/Packages](#data-sourcespackages)
 - [Tutorials](#tutorials)
 - [Past Student Projects](#past-student-projects)
+- [Assignment Prompts](#assignment-prompts)
 
 # Overview
 
@@ -81,6 +82,6 @@ This page also incldues general resources for exploratory data analysis using Ex
 - Research papers
 - Adobe Spark projects
 
-# Assignment Templates/Resources
+# Assignment Prompts
 
 [Click here](https://github.com/kwaldenphd/sport-data-resources/blob/main/assignment-prompts.md) to visit the "Assignment Prompts" page that includes assignment prompts and steps for Case Study + Final Project assignments.
