@@ -17,7 +17,6 @@ This tutorial was written by <a href="https://github.com/kwaldenphd">Katherine W
 [Click here](https://github.com/kwaldenphd/sport-data-resources) to return to the landing page for this repository.
 
 # Blogs
-
 * [SportTechie](https://www.sporttechie.com/)
 * [FiveThirtyEight](https://fivethirtyeight.com/sports/)
 * [Nylon Calculus](https://fansided.com/nba/nylon-calculus/)
@@ -29,7 +28,6 @@ This tutorial was written by <a href="https://github.com/kwaldenphd">Katherine W
     * Includes podcasts includes podcast, writing, and video; Search for “Thinking Outside the Box Score” and “Scheduling Sports”
 
 # Podcasts
-
 * [FanGraphs](https://blogs.fangraphs.com/category/podcast/)
 * [Effectively Wild (FanGraphs)](https://podcasts.apple.com/us/podcast/effectively-wild-a-fangraphs-baseball-podcast/id545919715)
 * [Hot Take (Five Thirty Eight)](https://fivethirtyeight.com/tag/hot-takedown/)
@@ -41,7 +39,6 @@ This tutorial was written by <a href="https://github.com/kwaldenphd">Katherine W
     * Includes podcasts includes podcast, writing, and video; Search for “Thinking Outside the Box Score” and “Scheduling Sports”
 
 # Videos
-
 * [ESPN Sports Science](https://youtube.com/playlist?list=PLn3nHXu50t5xqHW67LKFhUB_C2Y9C0IwC)
 * [American Mathematical Society](http://www.ams.org/publicoutreach/mathmoments/browsemoments?cat=all)
     * Includes podcasts includes podcast, writing, and video; Search for “Thinking Outside the Box Score” and “Scheduling Sports”
@@ -49,7 +46,6 @@ This tutorial was written by <a href="https://github.com/kwaldenphd">Katherine W
 # Interactive Data Visualizations
 
 ## RStudio/Shiny
-
 * [RStudio Shiny User Showcase](https://shiny.rstudio.com/gallery/#user-showcase)
 * [2018 FIFA World Cup player birthplaces](https://shiny.rstudio.com/gallery/fifa-births.html)
 * [CFL impact relays](https://shiny.rstudio.com/gallery/impact-replay-cfl.html)
@@ -58,7 +54,6 @@ This tutorial was written by <a href="https://github.com/kwaldenphd">Katherine W
 * [Soccer player similarity/comparison](https://shiny.rstudio.com/gallery/soccer-player-similarity.html)
 
 ## Python
-
 * [plotly, “7 Dash Apps Bringing AI and ML to Sports Analytics” plotly (April 2021)](https://plotlygraphs.medium.com/7-dash-apps-bringing-ai-ml-to-sports-analytics-cb6e7c993064)
 * [Player Video Computer Vision Analysis](https://dash-gallery.plotly.host/bball-video-analysis/)
 * [Basketball Shot Chart Explorer](https://dash-gallery.plotly.host/bball-shot-explorer/)
@@ -68,7 +63,6 @@ This tutorial was written by <a href="https://github.com/kwaldenphd">Katherine W
 * [Formula 1 Stats](https://dash-gallery.plotly.host/formula1stats/)
 
 ## Tableau
-
 * [“Sport” keyword search](https://public.tableau.com/en-us/search/vizzes/sport)
 * [Jimmie Johnson: Seven Time NASCAR Cup Champion](https://public.tableau.com/en-us/gallery/jimmie-johnson-7-time-nascar-cup-champion)
 * [History of the Boston Marathon Women’s Wheelchair Division](https://public.tableau.com/en-us/gallery/women-winners-boston-marathon-wheelchair-division)
@@ -80,9 +74,7 @@ This tutorial was written by <a href="https://github.com/kwaldenphd">Katherine W
 * [Comparing European Football Players](https://public.tableau.com/en-us/gallery/comparing-european-football-players)
 
 ## Other
-
 * [Chartball](https://chartball.tumblr.com/) 
 
 # Return to Home
-
 [Click here](https://github.com/kwaldenphd/sport-data-resources) to return to the landing page for this repository.
