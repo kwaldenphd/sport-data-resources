@@ -16,11 +16,9 @@ This tutorial was written by <a href="https://github.com/kwaldenphd">Katherine W
 [Click here](https://github.com/kwaldenphd/sport-data-resources) to return to the landing page for this repository.
 
 # Databases
-
 * [SPORTDiscus library database](https://www.library.nd.edu/database/6ej5MRxj2wKgGICamcCeMA) 
 
 # Anthologies
-
 * James Cochran, Jay Bennet, and Jim Albert, _[The Oxford Anthology of Statistics in Sports](https://onesearch.library.nd.edu/permalink/f/1phik6l/ndu_aleph004669746)_ (Oxford University Press, 2017).
 * Jim Albert, Jay Bennet, and James Cochran, _[Anthology of Statistics in Sports](https://onesearch.library.nd.edu/permalink/f/1phik6l/ndu_aleph004511565)_ (Society for Industrial and Applied Mathematics, 2005).
 
@@ -46,5 +44,4 @@ This tutorial was written by <a href="https://github.com/kwaldenphd">Katherine W
 * _[International Review for the Sociology of Sport](https://onesearch.library.nd.edu/permalink/f/1phik6l/ndu_aleph002692872)_ (International Sociology of Sport Association)
 
 # Return to Home
-
 [Click here](https://github.com/kwaldenphd/sport-data-resources) to return to the landing page for this repository.
