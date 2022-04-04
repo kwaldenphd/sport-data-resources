@@ -19,7 +19,6 @@ This tutorial was written by <a href="https://github.com/kwaldenphd">Katherine W
 # Specialized Resources
 
 ## Blogs
-
 * _[Towards Data Science](https://towardsdatascience.com/)_ (Medium blog)
     * [Posts tagged “Sports”](https://towardsdatascience.com/tagged/sports) 
     * [Posts tagged “Sport Analytics”](https://towardsdatascience.com/tagged/sports-analytics) 
@@ -28,19 +27,16 @@ This tutorial was written by <a href="https://github.com/kwaldenphd">Katherine W
     * Lopez is Director of Data and Analytics for the NFL- lots of other blog posts on his personal site that may be of interest
 
 ## Documentation
-
 * [Sportsdataverse](https://sportsdataverse.org/) 
     * Most sportdataverse packages include documentation with tutorial articles
         * Example: [`cfbfastR` Articles](https://saiemgilani.github.io/cfbfastR/articles/) 
 
 ## Books
-
 * Paola Zuccolotto and Marcia Manisera, _[Basketball Data Science: With Applications in R](https://onesearch.library.nd.edu/permalink/f/1phik6l/ndu_aleph005460621) (CRC Press, 2020).
 * Max Marchi and Jim Albert, _[Analyzing Baseball Data With R](https://onesearch.library.nd.edu/permalink/f/1phik6l/ndu_aleph003604299) (CRC Press, 2014).
 * Jim Albert, _[Visualizing Baseball](https://onesearch.library.nd.edu/permalink/f/1phik6l/ndu_aleph004690188) (CRC Press, 2018).
 
 ## Other
-
 * FC Python, _[Learn Python and Data Science With Football](https://fcpython.com/)_ (website with tutorials/resources for soccer/football data)
 * Devin Pleuler, _[Soccer Analytics Handbook](https://github.com/devinpleuler/analytics-handbook)_ (GitHub repository with tutorials/resources)
 * Workshop [Meghan Hall](https://meghan.rbind.io/) ran at UConn Sports Analytics Symposium (October 2021).
@@ -84,5 +80,4 @@ For mapping in RStudio:
 - [Interactive maps with `leaflet` and `plotly`](https://github.com/kwaldenphd/football-structured-data/blob/main/mapping.md#mapping-in-rstudio)
 
 # Return to Home
-
 [Click here](https://github.com/kwaldenphd/sport-data-resources) to return to the landing page for this repository.
