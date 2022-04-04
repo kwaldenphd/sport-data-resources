@@ -78,19 +78,16 @@ This tutorial was written by <a href="https://github.com/kwaldenphd">Katherine W
     * Punting analysis
 
 # Soccer/Football
-
 * [Football Reference/Soccer Reference](https://fbref.com/)
     * Includes men’s and women’s coverage
 * [`worldfootballR`](https://github.com/JaseZiv/worldfootballR) (R/RStudio)
 
 # Hockey
-
 * [Hockey Reference](https://www.hockey-reference.com/)
 * [`fastRhockey`](https://github.com/benhowell71/fastRhockey) (R/RStudio)
 * [`sportsdataverse-py`](https://py.sportsdataverse.org/) (Python)
 
 # Multiple/Other
-
 * [`sportyR`](https://github.com/rossdrucker/sportyR)
     * R package for drawing regulation playing surfaces for several sports
 * Tableau, “[Where to Find Sports Data](https://public.tableau.com/s/blog/2014/03/where-find-sports-data)” _Tableau Public blog_ (March 2014)
@@ -103,5 +100,4 @@ This tutorial was written by <a href="https://github.com/kwaldenphd">Katherine W
     * Wide range of sport coverage, including non-mainstream sports (skiing, figure skating, triathlon, skating, etc). Includes an API.
 
 # Return to Home
-
 [Click here](https://github.com/kwaldenphd/sport-data-resources) to return to the landing page for this repository.
