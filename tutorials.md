@@ -19,29 +19,29 @@ This tutorial was written by <a href="https://github.com/kwaldenphd">Katherine W
 # Specialized Resources
 
 ## Blogs
-* _[Towards Data Science](https://towardsdatascience.com/)_ (Medium blog)
-    * [Posts tagged “Sports”](https://towardsdatascience.com/tagged/sports) 
-    * [Posts tagged “Sport Analytics”](https://towardsdatascience.com/tagged/sports-analytics) 
-    * Evan Oppenheimer, 4-part series “[R for Hockey Analysis](https://medium.com/@evanopp/r-for-hockey-analysis-part-1-installation-and-first-steps-9f0ad1bcf181)” (9 September 2018)
+* [*Towards Data Science*](https://towardsdatascience.com/)_ (Medium blog)
+  * [Posts tagged “Sports”](https://towardsdatascience.com/tagged/sports) 
+  * [Posts tagged “Sport Analytics”](https://towardsdatascience.com/tagged/sports-analytics) 
+  * Evan Oppenheimer, 4-part series “[R for Hockey Analysis](https://medium.com/@evanopp/r-for-hockey-analysis-part-1-installation-and-first-steps-9f0ad1bcf181)” (9 September 2018)
 * Michael Lopez, “[R for NFL Analysis](https://statsbylopez.netlify.app/post/r-for-nfl-analysis/)” _personal blog_ (10 May 2019)
-    * Lopez is Director of Data and Analytics for the NFL- lots of other blog posts on his personal site that may be of interest
+  * Lopez is Director of Data and Analytics for the NFL- lots of other blog posts on his personal site that may be of interest
 
 ## Documentation
 * [Sportsdataverse](https://sportsdataverse.org/) 
-    * Most sportdataverse packages include documentation with tutorial articles
-        * Example: [`cfbfastR` Articles](https://saiemgilani.github.io/cfbfastR/articles/) 
+  * Most sportdataverse packages include documentation with tutorial articles
+    * Example: [`cfbfastR` Articles](https://saiemgilani.github.io/cfbfastR/articles/) 
 
 ## Books
-* Paola Zuccolotto and Marcia Manisera, _[Basketball Data Science: With Applications in R](https://onesearch.library.nd.edu/permalink/f/1phik6l/ndu_aleph005460621) (CRC Press, 2020).
-* Max Marchi and Jim Albert, _[Analyzing Baseball Data With R](https://onesearch.library.nd.edu/permalink/f/1phik6l/ndu_aleph003604299) (CRC Press, 2014).
-* Jim Albert, _[Visualizing Baseball](https://onesearch.library.nd.edu/permalink/f/1phik6l/ndu_aleph004690188) (CRC Press, 2018).
+* Paola Zuccolotto and Marcia Manisera, [*Basketball Data Science: With Applications in R*](https://onesearch.library.nd.edu/permalink/f/1phik6l/ndu_aleph005460621) (CRC Press, 2020).
+* Max Marchi and Jim Albert, [*Analyzing Baseball Data With R*](https://onesearch.library.nd.edu/permalink/f/1phik6l/ndu_aleph003604299) (CRC Press, 2014).
+* Jim Albert, [*Visualizing Baseball*](https://onesearch.library.nd.edu/permalink/f/1phik6l/ndu_aleph004690188) (CRC Press, 2018).
 
 ## Other
-* FC Python, _[Learn Python and Data Science With Football](https://fcpython.com/)_ (website with tutorials/resources for soccer/football data)
-* Devin Pleuler, _[Soccer Analytics Handbook](https://github.com/devinpleuler/analytics-handbook)_ (GitHub repository with tutorials/resources)
+* FC Python, [*Learn Python and Data Science With Football*](https://fcpython.com/)_ (website with tutorials/resources for soccer/football data)
+* Devin Pleuler, [*Soccer Analytics Handbook*](https://github.com/devinpleuler/analytics-handbook)_ (GitHub repository with tutorials/resources)
 * Workshop [Meghan Hall](https://meghan.rbind.io/) ran at UConn Sports Analytics Symposium (October 2021).
-    * [Slides](https://meghan.rbind.io/slides/ucsas/hall_ucsas_2021)
-    * [GitHub](https://github.com/meghall06/personal-website/blob/master/static/slides/UCSAS/UCSAS_code.R)
+  * [Slides](https://meghan.rbind.io/slides/ucsas/hall_ucsas_2021)  
+  * [GitHub](https://github.com/meghall06/personal-website/blob/master/static/slides/UCSAS/UCSAS_code.R)
 
 # General Tutorials
 
