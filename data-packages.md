@@ -88,6 +88,8 @@ This tutorial was written by <a href="https://github.com/kwaldenphd">Katherine W
 * [`sportsdataverse-py`](https://py.sportsdataverse.org/) (Python)
 
 # Multiple/Other
+* [Sports Analytics CRAN Task View](https://cran.r-project.org/web/views/SportsAnalytics.html)
+  * "This CRAN Task View contains a list of packages useful for sports analytics. Most of the packages are sport-specific and are grouped as such. However, we also include a General section for packages that provide ancillary functionality relevant to sports analytics (e.g., team-themed color palettes), and a Modeling section for packages useful for statistical modeling. Throughout the task view, and collected in the Related links section at the end, we have included a list of selected books and articles that use some of these packages in substantive ways. Our goal in compiling this list is to help researchers find the tools they need to complete their work in R."
 * [`sportyR`](https://github.com/rossdrucker/sportyR)
     * R package for drawing regulation playing surfaces for several sports
 * Tableau, “[Where to Find Sports Data](https://public.tableau.com/s/blog/2014/03/where-find-sports-data)” _Tableau Public blog_ (March 2014)
